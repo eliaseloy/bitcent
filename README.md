@@ -33,7 +33,7 @@ Lista de tecnologias utilizadas no projeto:
 1. Clone o repositório:
 
 ```bash
-$ git clone https://github.com/transformacaodev/bitcent
+$ git clone https://github.com/eliaseloy/bitcent
 $ cd bitcent
 ```
 
@@ -90,12 +90,9 @@ O app estará disponível no endereço http://localhost:3000.
 Bitcent é uma aplicação web para controle de finanças pessoais com landing page e dashboard. O projeto utiliza o Firebase para autenticação e armazenamento de dados.
 
 Projeto foi desenvolvido durante a **[Semana Tranformação.DEV](https://transformacao.dev/)**, que ocorreu nos dias 8 a 12 de Maio de 2023.
+Existem alterações referente ao projeto original, referente links para minhas redes sociais e com acréscimo de estrutura do JEST e TESTING LIBRARY para inserção de testes na aplicação.
 
 
 ## License
 
 Esse projeto está sob a [licença MIT](LICENSE.md).
-
----
-
-Cod3r com ❤️ -  [Nossa Comunidade no Discord](https://discord.gg/JexVkcc3vr)
